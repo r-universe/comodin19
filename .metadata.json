@@ -1,6 +1,5 @@
 [
   {
-    "package": "BayesVarSel",
-    "oncran": true
+    "package": "BayesVarSel"
   }
 ]
